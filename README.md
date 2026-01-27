@@ -35,14 +35,14 @@ This command terminates:
 
 **Windows (PowerShell):**
 ```powershell
-git clone https://github.com/yourusername/saveclaudenode.git
+git clone https://github.com/Jeffrey0117/saveclaudenode.git
 cd saveclaudenode
 .\install-hook.ps1
 ```
 
 **Windows (Batch):**
 ```cmd
-git clone https://github.com/yourusername/saveclaudenode.git
+git clone https://github.com/Jeffrey0117/saveclaudenode.git
 cd saveclaudenode
 install-hook.bat
 ```
@@ -58,7 +58,7 @@ winget install Rustlang.Rustup
 
 **Build:**
 ```bash
-git clone https://github.com/yourusername/saveclaudenode.git
+git clone https://github.com/Jeffrey0117/saveclaudenode.git
 cd saveclaudenode
 cargo build --release
 ```
@@ -228,14 +228,14 @@ Created by developers who got tired of accidentally killing their own Claude Cod
 
 **Windows (PowerShell):**
 ```powershell
-git clone https://github.com/yourusername/saveclaudenode.git
+git clone https://github.com/Jeffrey0117/saveclaudenode.git
 cd saveclaudenode
 .\install-hook.ps1
 ```
 
 **Windows (批次檔):**
 ```cmd
-git clone https://github.com/yourusername/saveclaudenode.git
+git clone https://github.com/Jeffrey0117/saveclaudenode.git
 cd saveclaudenode
 install-hook.bat
 ```
@@ -251,7 +251,7 @@ winget install Rustlang.Rustup
 
 **編譯：**
 ```bash
-git clone https://github.com/yourusername/saveclaudenode.git
+git clone https://github.com/Jeffrey0117/saveclaudenode.git
 cd saveclaudenode
 cargo build --release
 ```
